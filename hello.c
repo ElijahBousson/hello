@@ -1,6 +1,6 @@
 /**
  * Author: Elijah Bousson
- * Date: 2022/23/8
+ * Date: 2022/24/8
  *
  * A simple hello world program in C
  *
@@ -10,7 +10,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Hello World!\n");
-  printf("Elijah Bousson\n");
+  printf("Elijah Bousson!\n");
+  printf("I'm a computer science major :/\n");
   return 0;
 }
